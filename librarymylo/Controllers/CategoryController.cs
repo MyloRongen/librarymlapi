@@ -24,7 +24,7 @@ namespace librarymylo.WebApi.Controllers
         }
 
         // GET: api/<CategoryController>
-        [EnableCors]
+/*        [EnableCors]*/
         [HttpPost]
         [Route("GetUserCategories")]
         /*[Authorize]*/
