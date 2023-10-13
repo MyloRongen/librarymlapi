@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\librarymylo.WebApi.props" />
+</Project>

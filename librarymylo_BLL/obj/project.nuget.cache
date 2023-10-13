@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eXma8Rmht7HgYRXbgWo3yg7gZZyiQAbZ2DGMGAYbZevt7zUXhidYbGzl89/XG0s5b8WqUKPp3rrvTz7DreU5MA==",
+  "success": true,
+  "projectFilePath": "D:\\fontys\\Software\\LibraryProject\\librarymylo\\librarymylo_BLL\\librarymylo_BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronge\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

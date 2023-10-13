@@ -1,0 +1,15 @@
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\bin\Debug\net7.0\librarymylo_DAL.deps.json
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\bin\Debug\net7.0\librarymylo_DAL.dll
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\bin\Debug\net7.0\librarymylo_DAL.pdb
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\bin\Debug\net7.0\librarymylo_BLL.dll
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\bin\Debug\net7.0\librarymylo_BLL.pdb
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\obj\Debug\net7.0\librarymylo_DAL.csproj.AssemblyReference.cache
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\obj\Debug\net7.0\librarymylo_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\obj\Debug\net7.0\librarymylo_DAL.AssemblyInfoInputs.cache
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\obj\Debug\net7.0\librarymylo_DAL.AssemblyInfo.cs
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\obj\Debug\net7.0\librarymylo_DAL.csproj.CoreCompileInputs.cache
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\obj\Debug\net7.0\librarymylo_DAL.csproj.CopyComplete
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\obj\Debug\net7.0\librarymylo_DAL.dll
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\obj\Debug\net7.0\refint\librarymylo_DAL.dll
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\obj\Debug\net7.0\librarymylo_DAL.pdb
+D:\fontys\Software\LibraryProject\librarymylo\librarymylo_DAL\obj\Debug\net7.0\ref\librarymylo_DAL.dll
